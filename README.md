@@ -12,7 +12,8 @@ The image represents custom angular elements which are running in a static index
 
 Check package.json and run `build:elements`
 
-Once angular element is build coopy below list of files from elements folder to HTTP server 
+Once angular element is build copy below list of files from elements folder to HTTP server 
 - index.html
 - myCustomElement.js
 - styles.css
+
